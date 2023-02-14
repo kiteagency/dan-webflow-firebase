@@ -1,1 +1,1 @@
-console.log('We have Firebase!');
+console.log('We have new Firebase!');
